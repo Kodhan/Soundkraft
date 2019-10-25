@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\johan.andersson\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\johan.andersson\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_SoundKraft.331661145.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\Kraft\Unity\SoundKraft" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="SoundKraft" t="Include">
+          <e p="AudioController.cs" t="Include" />
+          <e p="AudioObject.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="AudioObjectEditor.cs" t="Include" />
+            <e p="MinMaxDrawer.cs" t="Include" />
+          </e>
+          <e p="EditorAudioTester.cs" t="Include" />
+          <e p="MathHelper.cs" t="Include" />
+          <e p="ObjectPool.cs" t="Include" />
+          <e p="SoundKraftManager.cs" t="Include" />
+          <e p="TestAudioStarter.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="SoundKraft.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
