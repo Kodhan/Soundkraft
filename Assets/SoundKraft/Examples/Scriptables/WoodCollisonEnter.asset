@@ -10,23 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2d9c408cc8baa064b88a3e5daed1e8e5, type: 3}
-  m_Name: Birdy
+  m_Name: WoodCollisonEnter
   m_EditorClassIdentifier: 
   MixerGroup: {fileID: 0}
   Clips:
-  - {fileID: 8300000, guid: 2162746ca32720f44a73be2546dc559b, type: 3}
-  - {fileID: 8300000, guid: b84a806c638bc5d4a9be2cb27f72fb51, type: 3}
-  - {fileID: 8300000, guid: 4e45995996c26c341b67bf045699015a, type: 3}
-  - {fileID: 8300000, guid: d422617d9340c1445b0483e00c07f5dd, type: 3}
+  - {fileID: 8300000, guid: 77acc61d086f64442b154e2fa09847e0, type: 3}
+  - {fileID: 8300000, guid: 7b2192637c1111840ac03f7971f27878, type: 3}
+  - {fileID: 8300000, guid: 590b259c2ffc60743b47a02cee23dc94, type: 3}
+  - {fileID: 8300000, guid: 49f99d0d2a37abc48b46bc50db43f113, type: 3}
   Volume:
-    MinMax: {x: 0.6614245, y: 0.8614245}
+    MinMax: {x: 0.7936513, y: 0.8936513}
   Pitch:
-    MinMax: {x: 0.9, y: 1}
-  Distance: {x: 1, y: 500}
+    MinMax: {x: 0.93867224, y: 1.1}
+  Distance: {x: 163.03, y: 1000}
   SpatialBlend: 1
   RolloffMode: 0
   IsLooping: 0
-  Sound2D: 1
+  Sound2D: 0
   FadeInTime: 0
   FadeInCurve:
     serializedVersion: 2
